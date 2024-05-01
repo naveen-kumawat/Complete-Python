@@ -1,5 +1,4 @@
 # Python Introduction 
-@naveen-kumawat
 ## Lecture - 1
 
 ## Introduction
