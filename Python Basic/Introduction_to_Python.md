@@ -1,5 +1,5 @@
 # Python Introduction 
-#### [Writed by - Naveen Kumawat  Date: 01/05/2024](https://www.linkedin.com/in/naveenkwt/)
+#### [Writed by - Naveen Kumawat](https://www.linkedin.com/in/naveenkwt/) Date: 01/05/2024
 ## Lecture - 1
 
 ## Introduction
