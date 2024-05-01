@@ -1,5 +1,5 @@
 # Python Introduction 
-#### [Auther](https://www.linkedin.com/in/naveenkwt/)
+#### [Writed by - Naveen Kumawat  Date: 01/05/2024](https://www.linkedin.com/in/naveenkwt/)
 ## Lecture - 1
 
 ## Introduction
@@ -62,7 +62,7 @@ Organizations like Microsoft, Google, Yahoo, YouTube, Mozilla, Dropbox, Cisco, S
 Python is a versatile scripting language with broad support across industries and organizations. While it has some limitations, its flexibility, ease of use, and open-source nature make it an attractive choice for developers. The transition from Python 2 to Python 3 has improved functionality and compatibility, establishing Python as a preferred language for various applications.
 
 ## Author
-written by [Naveen Kumawat]().
+GitHub [Naveen Kumawat](https://github.com/naveen-kumawat).
 
 ---
 
