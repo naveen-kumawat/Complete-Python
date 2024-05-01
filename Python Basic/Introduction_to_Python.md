@@ -1,6 +1,5 @@
-# Python Introduction
-@ Naveen Kumawat
-### Lecture - 1
+# Python Introduction 
+## Lecture - 1
 
 ## Introduction
 Python, designed by Guido van Rossum and released in 1991, has become one of the most widely used scripting languages. It has evolved through several versions, including Python 1, Python 2, and Python 3. Python is popular for its versatility, allowing for the automation of tasks, web application development, handling big data, complex calculations, workflow creation, rapid prototyping, and other software development purposes.
