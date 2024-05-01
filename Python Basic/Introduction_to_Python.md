@@ -1,5 +1,8 @@
 # Python Introduction 
+<<<<<<< HEAD
 @ Naveen Kumawat
+=======
+>>>>>>> baddc820e6c5ee97cb3ff02b5c64eb9daccf26e2
 ## Lecture - 1
 
 ## Introduction
